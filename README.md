@@ -1,2 +1,4 @@
-# Agenda-Telef-nica
-Projeto agenda de contatos
+Agenda de Contatos
+
+A minha ideia inicial com esse projeto é conseguir juntar os 2 mundos da programação em um único projeto, o que eu quero dizer com isso é que quero desenvolver uma aplicação web completa usando o c# como backend. Até agora eu só criei uma lógica básica para o back-end para ter um bom ponto de partida, a minha ideia agora é continuar desenvolvendo esse projeto, utilizando um banco de dados para guardar as devidas informações dos contatos e futuramente desenvolver uma parte visual, estou pensando em utilizar o Angular.js para fazer o frontend. Pretendo me aprofundar no estudo de Angular.js em um futuro próximo, e utilizarei esse projeto para treinar as minhas habilidades no desenvolvimento, é um projeto que ainda não tem prazo para ser terminado, aos poucos vou atualizando ele e colocando as atualizações aqui!!
+
